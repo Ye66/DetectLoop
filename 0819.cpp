@@ -8,6 +8,7 @@ int Function{
   return month.size()
 }
 
+//Second task
 uint16 result=0;
 int count=0;
 for(int i=0; i<data_number; ++i){
